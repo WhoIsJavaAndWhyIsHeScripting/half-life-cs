@@ -20,7 +20,7 @@
 | [0.96" LED](https://www.aliexpress.com/item/3256807365456648.html?spm=a2g0o.cart.0.0.760338daI40AUs&mp=1&pdp_npi=6%40dis%21USD%21USD%203.41%21USD%202.01%21%21USD%202.01%21%21%21%402101c4b817917605306828828e0e2d%2112000041262566408%21ct%21US%21-1%21%211%210%21) | show my sprite | 1 | $2.01 | $2.01 | [AliExpress](https://www.aliexpress.com/item/3256807365456648.html?spm=a2g0o.cart.0.0.760338daI40AUs&mp=1&pdp_npi=6%40dis%21USD%21USD%203.41%21USD%202.01%21%21USD%202.01%21%21%21%402101c4b817917605306828828e0e2d%2112000041262566408%21ct%21US%21-1%21%211%210%21) |
 | [10k ohm resistor](https://www.aliexpress.com/item/2251832129615028.html?spm=a2g0o.cart.0.0.760338daV4tyr8&mp=1&pdp_npi=6%40dis%21USD%21USD%201.35%21USD%201.35%21%21USD%201.35%21%21%21%402101d33417917616197478317e1329%2158256489987%21ct%21US%21-1%21%211%210%21) | resisting | 1 | $1.35 | $1.35 | [AliExpress](https://www.aliexpress.com/item/2251832129615028.html?spm=a2g0o.cart.0.0.760338daV4tyr8&mp=1&pdp_npi=6%40dis%21USD%21USD%201.35%21USD%201.35%21%21USD%201.35%21%21%21%402101d33417917616197478317e1329%2158256489987%21ct%21US%21-1%21%211%210%21) |
 | **Parts subtotal** | — | — | — | **$21.60** | — |
-| **Tax & shipping** | — | — | — | **$9.65** | — |
-| **Total** | — | — | — | **$31.25** | — |
+| **Tax & shipping** | — | — | — | **$2.65** | — |
+| **Total** | — | — | — | **$24.25** | — |
 
-**$1.25 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$5.75 left of the tier's funding.
